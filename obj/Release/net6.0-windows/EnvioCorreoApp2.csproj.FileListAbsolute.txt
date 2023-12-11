@@ -1,0 +1,17 @@
+C:\Users\DESARROLLO_RUBEN\source\repos\EnvioCorreoApp2\bin\Release\net6.0-windows\EnvioCorreoApp2.exe
+C:\Users\DESARROLLO_RUBEN\source\repos\EnvioCorreoApp2\bin\Release\net6.0-windows\EnvioCorreoApp2.deps.json
+C:\Users\DESARROLLO_RUBEN\source\repos\EnvioCorreoApp2\bin\Release\net6.0-windows\EnvioCorreoApp2.runtimeconfig.json
+C:\Users\DESARROLLO_RUBEN\source\repos\EnvioCorreoApp2\bin\Release\net6.0-windows\EnvioCorreoApp2.dll
+C:\Users\DESARROLLO_RUBEN\source\repos\EnvioCorreoApp2\bin\Release\net6.0-windows\EnvioCorreoApp2.pdb
+C:\Users\DESARROLLO_RUBEN\source\repos\EnvioCorreoApp2\obj\Release\net6.0-windows\EnvioCorreoApp2.csproj.AssemblyReference.cache
+C:\Users\DESARROLLO_RUBEN\source\repos\EnvioCorreoApp2\obj\Release\net6.0-windows\EnvioCorreoApp2.Form1.resources
+C:\Users\DESARROLLO_RUBEN\source\repos\EnvioCorreoApp2\obj\Release\net6.0-windows\EnvioCorreoApp2.csproj.GenerateResource.cache
+C:\Users\DESARROLLO_RUBEN\source\repos\EnvioCorreoApp2\obj\Release\net6.0-windows\EnvioCorreoApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DESARROLLO_RUBEN\source\repos\EnvioCorreoApp2\obj\Release\net6.0-windows\EnvioCorreoApp2.AssemblyInfoInputs.cache
+C:\Users\DESARROLLO_RUBEN\source\repos\EnvioCorreoApp2\obj\Release\net6.0-windows\EnvioCorreoApp2.AssemblyInfo.cs
+C:\Users\DESARROLLO_RUBEN\source\repos\EnvioCorreoApp2\obj\Release\net6.0-windows\EnvioCorreoApp2.csproj.CoreCompileInputs.cache
+C:\Users\DESARROLLO_RUBEN\source\repos\EnvioCorreoApp2\obj\Release\net6.0-windows\EnvioCorreoApp2.dll
+C:\Users\DESARROLLO_RUBEN\source\repos\EnvioCorreoApp2\obj\Release\net6.0-windows\refint\EnvioCorreoApp2.dll
+C:\Users\DESARROLLO_RUBEN\source\repos\EnvioCorreoApp2\obj\Release\net6.0-windows\EnvioCorreoApp2.pdb
+C:\Users\DESARROLLO_RUBEN\source\repos\EnvioCorreoApp2\obj\Release\net6.0-windows\EnvioCorreoApp2.genruntimeconfig.cache
+C:\Users\DESARROLLO_RUBEN\source\repos\EnvioCorreoApp2\obj\Release\net6.0-windows\ref\EnvioCorreoApp2.dll

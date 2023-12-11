@@ -1,0 +1,5 @@
+C:\programasD\1.public\APICORREO\EnvioCorreoApp2.exe
+C:\programasD\1.public\APICORREO\EnvioCorreoApp2.dll
+C:\programasD\1.public\APICORREO\EnvioCorreoApp2.deps.json
+C:\programasD\1.public\APICORREO\EnvioCorreoApp2.runtimeconfig.json
+C:\programasD\1.public\APICORREO\EnvioCorreoApp2.pdb
